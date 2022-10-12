@@ -27,6 +27,11 @@ h2 {
   margin-bottom: 5rem;
 }
 
+.label:hover {
+  color: salmon;
+  font-size:large;
+}
+
 .twovert {
   height: 50%;
 }
